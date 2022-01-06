@@ -1,0 +1,271 @@
+\hypertarget{a00017}{}\doxysection{C\+:/\+Users/\+Ramazan Serhat UYGUN/\+Desktop/a/ce103-\/hw4-\/haluk-\/kurtulus/ce103-\/hw4-\/c-\/dll/ce103-\/hw4-\/c-\/dll.h File Reference}
+\label{a00017}\index{C:/Users/Ramazan Serhat UYGUN/Desktop/a/ce103-\/hw4-\/haluk-\/kurtulus/ce103-\/hw4-\/c-\/dll/ce103-\/hw4-\/c-\/dll.h@{C:/Users/Ramazan Serhat UYGUN/Desktop/a/ce103-\/hw4-\/haluk-\/kurtulus/ce103-\/hw4-\/c-\/dll/ce103-\/hw4-\/c-\/dll.h}}
+
+
+{\bfseries{ HW-\/4 Functions }}  
+
+
+This graph shows which files directly or indirectly include this file\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{dd/da2/a00019}
+\end{center}
+\end{figure}
+\doxysubsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \mbox{\hyperlink{a00017_ac7bef5d85e3dcd73eef56ad39ffc84a9}{WIN32\+\_\+\+LEAN\+\_\+\+AND\+\_\+\+MEAN}}
+\end{DoxyCompactItemize}
+\doxysubsection*{Functions}
+\begin{Indent}\textbf{ fibonacci\+Number (ce103\+\_\+fibonacci\+Number)}\par
+{\em Fibonacci Number Calculator
+
+Calculates the fibonacci number in the given index and return as output
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em fi\+Index} & \mbox{[}{\bfseries{int}}\mbox{]} index of fibonacci number in the serie\\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyRetVals}{Return values}
+{\em \mbox{[}} & \\
+\hline
+\end{DoxyRetVals}
+b int\mbox{]} calculated fibonacci number }\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{a00017_a17de9ac9679b53962598eb8a4932d252}{\+\_\+\+\_\+declspec}} (dllexport) int ce103\+\_\+fibonacci\+Number(int fi\+Index)
+\end{DoxyCompactItemize}
+\end{Indent}
+\doxysubsection*{Variables}
+\begin{Indent}\textbf{ strcat (ce103\+\_\+strcat)}\par
+{\em {\bfseries{Concatenate}} strings
+
+Appends a copy of the null-\/terminated byte string pointed to by src to the end of the null-\/terminated byte string pointed to by dest
+
+The character src\mbox{[}0\mbox{]} replaces the null terminator at the end of dest. The resulting byte string is null-\/terminated.
+
+The behavior is undefined if the destination array is not large enough for the contents of both src and dest and the terminating null character. The behavior is undefined if the strings overlap. The behavior is undefined if either dest or src is not a pointer to a null-\/terminated byte string.
+
+see more \href{https://en.cppreference.com/w/c/string/byte/strcat}{\texttt{ strcat reference}} see more \href{https://www.cplusplus.com/reference/cstring/strcat/}{\texttt{ strcat reference}}
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em fi\+Dest} & \mbox{[}{\bfseries{char$\ast$}}\mbox{]} pointer to the null-\/terminated byte string to append to \\
+\hline
+\mbox{\texttt{ in}}  & {\em fi\+Src} & \mbox{[}{\bfseries{char$\ast$}}\mbox{]} pointer to the null-\/terminated byte string to copy from\\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyRetVals}{Return values}
+{\em \mbox{[}} & \\
+\hline
+\end{DoxyRetVals}
+b char$\ast$\mbox{]} returns a copy of dest }\begin{DoxyCompactItemize}
+\item 
+char $\ast$ \mbox{\hyperlink{a00017_a1b1570f4ed4e67b99fa9934292fb7635}{fi\+Src}}
+\end{DoxyCompactItemize}
+\end{Indent}
+\begin{Indent}\textbf{ strcmp (ce103\+\_\+strcmp)}\par
+{\em {\bfseries{Compare}} two strings
+
+Compares two null-\/terminated byte strings lexicographically.
+
+The sign of the result is the sign of the difference between the values of the first pair of characters (both interpreted as unsigned char) that differ in the strings being compared.\+The behavior is undefined if lhs or rhs are not pointers to null-\/terminated byte strings.
+
+see more \href{https://en.cppreference.com/w/c/string/byte/strcmp}{\texttt{ strcmp reference}} see more \href{https://www.cplusplus.com/reference/cstring/strcmp/}{\texttt{ strcmp reference}}
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em fi\+Lhs} & \mbox{[}{\bfseries{const}} char$\ast$\mbox{]} pointers to the null-\/terminated byte strings to compare \\
+\hline
+\mbox{\texttt{ in}}  & {\em fi\+Rhs} & \mbox{[}{\bfseries{const}} char$\ast$\mbox{]} pointers to the null-\/terminated byte strings to compare\\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyRetVals}{Return values}
+{\em \mbox{[}} & \\
+\hline
+\end{DoxyRetVals}
+b int\mbox{]} Negative value if lhs appears before rhs in lexicographical order. Zero if lhs and rhs compare equal. Positive value if lhs appears after rhs in lexicographical order. }\begin{DoxyCompactItemize}
+\item 
+const char $\ast$ \mbox{\hyperlink{a00017_af785a6074fa179d194234558c3a0b563}{fi\+Rhs}}
+\end{DoxyCompactItemize}
+\end{Indent}
+\begin{Indent}\textbf{ strcpy (ce103\+\_\+strcpy)}\par
+{\em {\bfseries{Copy}} string
+
+Copies the C string pointed by source into the array pointed by destination, including the terminating null character (and stopping at that point).
+
+To avoid overflows, the size of the array pointed by destination shall be long enough to contain the same C string as source (including the terminating null character), and should not overlap in memory with source.
+
+see more \href{https://en.cppreference.com/w/c/string/byte/strcpy}{\texttt{ strcpy reference 1}} see more \href{https://www.cplusplus.com/reference/cstring/strcpy/}{\texttt{ strcpy reference 2}}
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ out}}  & {\em fo\+Destination} & \mbox{[}{\bfseries{char$\ast$}}\mbox{]} Pointer to the destination array where the content is to be copied. \\
+\hline
+\mbox{\texttt{ in}}  & {\em fi\+Source} & \mbox{[}{\bfseries{const}} char$\ast$\mbox{]} C string to be copied.\\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyRetVals}{Return values}
+{\em returns} & a copy of dest \\
+\hline
+\end{DoxyRetVals}
+}\begin{DoxyCompactItemize}
+\item 
+const char $\ast$ \mbox{\hyperlink{a00017_a4f8f6c875bb41a9bf9eca898d79813f8}{fi\+Source}}
+\end{DoxyCompactItemize}
+\end{Indent}
+\begin{Indent}\textbf{ hex2bin (ce103\+\_\+hex2bin)}\par
+{\em {\bfseries{Hexadecimal}} to Binary (BCD) Conversion
+
+Hexadecimal to Binary (BCD) Conversion Packs hexadecimal string to packed binary array, Example\+: \char`\"{}\+AB1234\char`\"{} =\texorpdfstring{$>$}{>} 0x\+AB 0x12 0x34 If length of the input string is less than the fi\+Hex\+Len,remaining bytes is not filled. If odd number of characters processed, last nibble is padded with 0
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em fi\+Hex} & \mbox{[}{\bfseries{unsigned}} char$\ast$\mbox{]} Ascii hex string. \\
+\hline
+\mbox{\texttt{ in}}  & {\em fi\+Hex\+Len} & \mbox{[}{\bfseries{int}}\mbox{]} Ascii data length. \\
+\hline
+\mbox{\texttt{ out}}  & {\em fo\+Bin} & \mbox{[}{\bfseries{char$\ast$}}\mbox{]} Convertion result as binary. \\
+\hline
+\end{DoxyParams}
+}\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{a00017_a3d20cd8ac9807dcba37b7e2c064fd70e}{fi\+Hex\+Len}}
+\item 
+int unsigned char $\ast$ \mbox{\hyperlink{a00017_a960ce0d180f22504ac897db124307207}{fo\+Bin}}
+\end{DoxyCompactItemize}
+\end{Indent}
+\begin{Indent}\textbf{ bin2hex (ce103\+\_\+bin2hex)}\par
+{\em {\bfseries{Binary}} (BCD) to Hexadecimal Conversion
+
+Unpacks alpha numeric value, Example\+: 0x12 0x34 = \char`\"{}1234\char`\"{}.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em fi\+Bin} & \mbox{[}{\bfseries{unsigned}} char$\ast$\mbox{]} Binary data to be converted. \\
+\hline
+\mbox{\texttt{ in}}  & {\em fi\+Bin\+Len} & \mbox{[}{\bfseries{int}}\mbox{]} Binary data length. \\
+\hline
+\mbox{\texttt{ out}}  & {\em fo\+Hex} & \mbox{[}{\bfseries{char$\ast$}}\mbox{]} Convertion result as ascii. Doubles the binary length. \\
+\hline
+\end{DoxyParams}
+}\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{a00017_ae57ecbce230da104d5a6410b6c0b8c2e}{fi\+Bin\+Len}}
+\item 
+int char $\ast$ \mbox{\hyperlink{a00017_a3095b94800fd72795c52c27e2ff39973}{fo\+Hex}}
+\end{DoxyCompactItemize}
+\end{Indent}
+
+
+\doxysubsection{Detailed Description}
+{\bfseries{ HW-\/4 Functions }} 
+
+\begin{DoxyAuthor}{Author}
+Haluk Kurtulus 
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+31 December 2021
+\end{DoxyDate}
+HW-\/4 Sample Lib Functions
+
+\begin{DoxySeeAlso}{See also}
+\href{http://bilgisayar.mmf.erdogan.edu.tr/en/}{\texttt{ http\+://bilgisayar.\+mmf.\+erdogan.\+edu.\+tr/en/}} 
+\end{DoxySeeAlso}
+
+
+\doxysubsection{Macro Definition Documentation}
+\mbox{\Hypertarget{a00017_ac7bef5d85e3dcd73eef56ad39ffc84a9}\label{a00017_ac7bef5d85e3dcd73eef56ad39ffc84a9}} 
+\index{ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}!WIN32\_LEAN\_AND\_MEAN@{WIN32\_LEAN\_AND\_MEAN}}
+\index{WIN32\_LEAN\_AND\_MEAN@{WIN32\_LEAN\_AND\_MEAN}!ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}}
+\doxysubsubsection{\texorpdfstring{WIN32\_LEAN\_AND\_MEAN}{WIN32\_LEAN\_AND\_MEAN}}
+{\footnotesize\ttfamily \#define WIN32\+\_\+\+LEAN\+\_\+\+AND\+\_\+\+MEAN}
+
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{a00017_a17de9ac9679b53962598eb8a4932d252}\label{a00017_a17de9ac9679b53962598eb8a4932d252}} 
+\index{ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}!\_\_declspec@{\_\_declspec}}
+\index{\_\_declspec@{\_\_declspec}!ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}}
+\doxysubsubsection{\texorpdfstring{\_\_declspec()}{\_\_declspec()}}
+{\footnotesize\ttfamily \+\_\+\+\_\+declspec (\begin{DoxyParamCaption}\item[{dllexport}]{ }\end{DoxyParamCaption})}
+
+
+
+\doxysubsection{Variable Documentation}
+\mbox{\Hypertarget{a00017_ae57ecbce230da104d5a6410b6c0b8c2e}\label{a00017_ae57ecbce230da104d5a6410b6c0b8c2e}} 
+\index{ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}!fiBinLen@{fiBinLen}}
+\index{fiBinLen@{fiBinLen}!ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}}
+\doxysubsubsection{\texorpdfstring{fiBinLen}{fiBinLen}}
+{\footnotesize\ttfamily int fi\+Bin\+Len}
+
+
+
+Referenced by \mbox{\hyperlink{a00020_a4d3ff0df16abfa2b225584abc6460036}{ce103\+\_\+bin2hex\+\_\+cpp()}}, and \mbox{\hyperlink{a00059_aba6bdc90a9eb79fd2447cca016bd1dc7}{ce103\+\_\+hw4\+\_\+cs\+\_\+dll.\+Class2\+::ce103\+\_\+bin2hex\+\_\+cs\+\_\+imported()}}.
+
+\mbox{\Hypertarget{a00017_a3d20cd8ac9807dcba37b7e2c064fd70e}\label{a00017_a3d20cd8ac9807dcba37b7e2c064fd70e}} 
+\index{ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}!fiHexLen@{fiHexLen}}
+\index{fiHexLen@{fiHexLen}!ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}}
+\doxysubsubsection{\texorpdfstring{fiHexLen}{fiHexLen}}
+{\footnotesize\ttfamily int fi\+Hex\+Len}
+
+
+
+Referenced by \mbox{\hyperlink{a00020_a87799aa11e2d73935062d0fa133d5658}{ce103\+\_\+hex2bin\+\_\+cpp()}}, \mbox{\hyperlink{a00055_a95f04a2b858e05a51398645353ebe043}{ce103\+\_\+hw4\+\_\+cs\+\_\+dll.\+Class1\+::ce103\+\_\+hex2bin\+\_\+cs()}}, and \mbox{\hyperlink{a00059_a9292365c460c52d8b4c60020edd036b8}{ce103\+\_\+hw4\+\_\+cs\+\_\+dll.\+Class2\+::ce103\+\_\+hex2bin\+\_\+cs\+\_\+imported()}}.
+
+\mbox{\Hypertarget{a00017_af785a6074fa179d194234558c3a0b563}\label{a00017_af785a6074fa179d194234558c3a0b563}} 
+\index{ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}!fiRhs@{fiRhs}}
+\index{fiRhs@{fiRhs}!ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}}
+\doxysubsubsection{\texorpdfstring{fiRhs}{fiRhs}}
+{\footnotesize\ttfamily const char $\ast$ fi\+Rhs}
+
+
+
+Referenced by \mbox{\hyperlink{a00020_a44fd98ff9d4d75db0daf7d7b2410423f}{ce103\+\_\+strcmp\+\_\+cpp()}}, \mbox{\hyperlink{a00055_ada0f6e8731dd9d21b2062026f6ac8c86}{ce103\+\_\+hw4\+\_\+cs\+\_\+dll.\+Class1\+::ce103\+\_\+strcmp\+\_\+cs()}}, and \mbox{\hyperlink{a00059_a2b38600eb70e860981b7ca21f769f10a}{ce103\+\_\+hw4\+\_\+cs\+\_\+dll.\+Class2\+::ce103\+\_\+strcmp\+\_\+cs\+\_\+imported()}}.
+
+\mbox{\Hypertarget{a00017_a4f8f6c875bb41a9bf9eca898d79813f8}\label{a00017_a4f8f6c875bb41a9bf9eca898d79813f8}} 
+\index{ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}!fiSource@{fiSource}}
+\index{fiSource@{fiSource}!ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}}
+\doxysubsubsection{\texorpdfstring{fiSource}{fiSource}}
+{\footnotesize\ttfamily const char $\ast$ fi\+Source}
+
+
+
+Referenced by \mbox{\hyperlink{a00020_afe12cfa7cf02a4addbf5aa9f8c7d1567}{ce103\+\_\+strcpy\+\_\+cpp()}}, \mbox{\hyperlink{a00055_a57b6245b09851a093e05b1930ada296e}{ce103\+\_\+hw4\+\_\+cs\+\_\+dll.\+Class1\+::ce103\+\_\+strcpy\+\_\+cs()}}, and \mbox{\hyperlink{a00059_a2c8d50fd1a88120ae9bff0790a6bb301}{ce103\+\_\+hw4\+\_\+cs\+\_\+dll.\+Class2\+::ce103\+\_\+strcpy\+\_\+cs\+\_\+imported()}}.
+
+\mbox{\Hypertarget{a00017_a1b1570f4ed4e67b99fa9934292fb7635}\label{a00017_a1b1570f4ed4e67b99fa9934292fb7635}} 
+\index{ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}!fiSrc@{fiSrc}}
+\index{fiSrc@{fiSrc}!ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}}
+\doxysubsubsection{\texorpdfstring{fiSrc}{fiSrc}}
+{\footnotesize\ttfamily char $\ast$ fi\+Src}
+
+
+
+Referenced by \mbox{\hyperlink{a00020_aebf6d03e4859cfbb6e82539f2749d463}{ce103\+\_\+strcat\+\_\+cpp()}}, \mbox{\hyperlink{a00055_a648982db90571d7041868e43947e0ade}{ce103\+\_\+hw4\+\_\+cs\+\_\+dll.\+Class1\+::ce103\+\_\+strcat\+\_\+cs()}}, and \mbox{\hyperlink{a00059_adc11e911d22e3de9b827918a74c5aa50}{ce103\+\_\+hw4\+\_\+cs\+\_\+dll.\+Class2\+::ce103\+\_\+strcat\+\_\+cs\+\_\+imported()}}.
+
+\mbox{\Hypertarget{a00017_a960ce0d180f22504ac897db124307207}\label{a00017_a960ce0d180f22504ac897db124307207}} 
+\index{ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}!foBin@{foBin}}
+\index{foBin@{foBin}!ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}}
+\doxysubsubsection{\texorpdfstring{foBin}{foBin}}
+{\footnotesize\ttfamily int unsigned char $\ast$ fo\+Bin}
+
+
+
+Referenced by \mbox{\hyperlink{a00020_a87799aa11e2d73935062d0fa133d5658}{ce103\+\_\+hex2bin\+\_\+cpp()}}, \mbox{\hyperlink{a00055_a95f04a2b858e05a51398645353ebe043}{ce103\+\_\+hw4\+\_\+cs\+\_\+dll.\+Class1\+::ce103\+\_\+hex2bin\+\_\+cs()}}, and \mbox{\hyperlink{a00059_a9292365c460c52d8b4c60020edd036b8}{ce103\+\_\+hw4\+\_\+cs\+\_\+dll.\+Class2\+::ce103\+\_\+hex2bin\+\_\+cs\+\_\+imported()}}.
+
+\mbox{\Hypertarget{a00017_a3095b94800fd72795c52c27e2ff39973}\label{a00017_a3095b94800fd72795c52c27e2ff39973}} 
+\index{ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}!foHex@{foHex}}
+\index{foHex@{foHex}!ce103-\/hw4-\/c-\/dll.h@{ce103-\/hw4-\/c-\/dll.h}}
+\doxysubsubsection{\texorpdfstring{foHex}{foHex}}
+{\footnotesize\ttfamily int char $\ast$ fo\+Hex}
+
+
+
+Referenced by \mbox{\hyperlink{a00020_a4d3ff0df16abfa2b225584abc6460036}{ce103\+\_\+bin2hex\+\_\+cpp()}}, \mbox{\hyperlink{a00055_a09bb9d8a1f48232528c909f4a6a356d0}{ce103\+\_\+hw4\+\_\+cs\+\_\+dll.\+Class1\+::ce103\+\_\+bin2hex\+\_\+cs()}}, and \mbox{\hyperlink{a00059_aba6bdc90a9eb79fd2447cca016bd1dc7}{ce103\+\_\+hw4\+\_\+cs\+\_\+dll.\+Class2\+::ce103\+\_\+bin2hex\+\_\+cs\+\_\+imported()}}.
+

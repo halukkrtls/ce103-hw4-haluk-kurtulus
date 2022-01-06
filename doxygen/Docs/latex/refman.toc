@@ -1,0 +1,162 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Namespace Index}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Namespace List}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Data Structure Index}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Data Structures}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}File Index}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}File List}{5}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Namespace Documentation}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}ce103\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw4\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dll Namespace Reference}{7}{section.4.1}%
+\contentsline {section}{\numberline {4.2}ce103\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw4\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}test Namespace Reference}{7}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Data Structure Documentation}{9}{chapter.5}%
+\contentsline {section}{\numberline {5.1}ce103\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw4\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dll.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Class1 Class Reference}{9}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Member Function Documentation}{12}{subsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.1}ce103\_bin2hex\_cs()}{12}{subsubsection.5.1.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.2}ce103\_fibonacciNumber\_cs()}{12}{subsubsection.5.1.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.1.3}ce103\_hex2bin\_cs()}{13}{subsubsection.5.1.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.1.4}ce103\_strcat\_cs()}{14}{subsubsection.5.1.1.4}%
+\contentsline {subsubsection}{\numberline {5.1.1.5}ce103\_strcmp\_cs()}{15}{subsubsection.5.1.1.5}%
+\contentsline {subsubsection}{\numberline {5.1.1.6}ce103\_strcpy\_cs()}{16}{subsubsection.5.1.1.6}%
+\contentsline {subsubsection}{\numberline {5.1.1.7}ce103\_strlen\_cs()}{17}{subsubsection.5.1.1.7}%
+\contentsline {subsubsection}{\numberline {5.1.1.8}ce103\_strrev\_cs()}{18}{subsubsection.5.1.1.8}%
+\contentsline {section}{\numberline {5.2}ce103\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw4\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dll.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Class2 Class Reference}{19}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Member Function Documentation}{22}{subsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.1.1}ce103\_bin2hex\_cpp()}{22}{subsubsection.5.2.1.1}%
+\contentsline {subsubsection}{\numberline {5.2.1.2}ce103\_bin2hex\_cs\_imported()}{23}{subsubsection.5.2.1.2}%
+\contentsline {subsubsection}{\numberline {5.2.1.3}ce103\_fibonacciNumber\_cpp()}{24}{subsubsection.5.2.1.3}%
+\contentsline {subsubsection}{\numberline {5.2.1.4}ce103\_fibonacciNumber\_cs\_imported()}{24}{subsubsection.5.2.1.4}%
+\contentsline {subsubsection}{\numberline {5.2.1.5}ce103\_hex2bin\_cpp()}{25}{subsubsection.5.2.1.5}%
+\contentsline {subsubsection}{\numberline {5.2.1.6}ce103\_hex2bin\_cs\_imported()}{26}{subsubsection.5.2.1.6}%
+\contentsline {subsubsection}{\numberline {5.2.1.7}ce103\_strcat\_cpp()}{27}{subsubsection.5.2.1.7}%
+\contentsline {subsubsection}{\numberline {5.2.1.8}ce103\_strcat\_cs\_imported()}{27}{subsubsection.5.2.1.8}%
+\contentsline {subsubsection}{\numberline {5.2.1.9}ce103\_strcmp\_cpp()}{28}{subsubsection.5.2.1.9}%
+\contentsline {subsubsection}{\numberline {5.2.1.10}ce103\_strcmp\_cs\_imported()}{29}{subsubsection.5.2.1.10}%
+\contentsline {subsubsection}{\numberline {5.2.1.11}ce103\_strcpy\_cpp()}{30}{subsubsection.5.2.1.11}%
+\contentsline {subsubsection}{\numberline {5.2.1.12}ce103\_strcpy\_cs\_imported()}{30}{subsubsection.5.2.1.12}%
+\contentsline {subsubsection}{\numberline {5.2.1.13}ce103\_strlen\_cpp()}{31}{subsubsection.5.2.1.13}%
+\contentsline {subsubsection}{\numberline {5.2.1.14}ce103\_strlen\_cs\_imported()}{32}{subsubsection.5.2.1.14}%
+\contentsline {subsubsection}{\numberline {5.2.1.15}ce103\_strrev\_cpp()}{33}{subsubsection.5.2.1.15}%
+\contentsline {subsubsection}{\numberline {5.2.1.16}ce103\_strrev\_cs\_imported()}{33}{subsubsection.5.2.1.16}%
+\contentsline {subsubsection}{\numberline {5.2.1.17}PtrToStringUtf8()}{34}{subsubsection.5.2.1.17}%
+\contentsline {section}{\numberline {5.3}ce103\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw4\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}test.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test1 Class Reference}{36}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Member Function Documentation}{37}{subsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.1.1}ce103\_bin2hex\_cs\_test1()}{37}{subsubsection.5.3.1.1}%
+\contentsline {subsubsection}{\numberline {5.3.1.2}ce103\_bin2hex\_cs\_test2()}{38}{subsubsection.5.3.1.2}%
+\contentsline {subsubsection}{\numberline {5.3.1.3}ce103\_bin2hex\_cs\_test3()}{38}{subsubsection.5.3.1.3}%
+\contentsline {subsubsection}{\numberline {5.3.1.4}ce103\_bin2hex\_imported\_test1()}{38}{subsubsection.5.3.1.4}%
+\contentsline {subsubsection}{\numberline {5.3.1.5}ce103\_bin2hex\_imported\_test2()}{39}{subsubsection.5.3.1.5}%
+\contentsline {subsubsection}{\numberline {5.3.1.6}ce103\_bin2hex\_imported\_test3()}{39}{subsubsection.5.3.1.6}%
+\contentsline {subsubsection}{\numberline {5.3.1.7}ce103\_bin2hex\_importedcppcs\_test1()}{39}{subsubsection.5.3.1.7}%
+\contentsline {subsubsection}{\numberline {5.3.1.8}ce103\_bin2hex\_importedcppcs\_test2()}{40}{subsubsection.5.3.1.8}%
+\contentsline {subsubsection}{\numberline {5.3.1.9}ce103\_bin2hex\_importedcppcs\_test3()}{40}{subsubsection.5.3.1.9}%
+\contentsline {subsubsection}{\numberline {5.3.1.10}ce103\_fibonacciNumber\_cs\_imported\_test\_1()}{40}{subsubsection.5.3.1.10}%
+\contentsline {subsubsection}{\numberline {5.3.1.11}ce103\_fibonacciNumber\_cs\_imported\_test\_2()}{41}{subsubsection.5.3.1.11}%
+\contentsline {subsubsection}{\numberline {5.3.1.12}ce103\_fibonacciNumber\_cs\_imported\_test\_3()}{41}{subsubsection.5.3.1.12}%
+\contentsline {subsubsection}{\numberline {5.3.1.13}ce103\_fibonacciNumber\_cs\_test\_1()}{41}{subsubsection.5.3.1.13}%
+\contentsline {subsubsection}{\numberline {5.3.1.14}ce103\_fibonacciNumber\_cs\_test\_2()}{42}{subsubsection.5.3.1.14}%
+\contentsline {subsubsection}{\numberline {5.3.1.15}ce103\_fibonacciNumber\_cs\_test\_3()}{42}{subsubsection.5.3.1.15}%
+\contentsline {subsubsection}{\numberline {5.3.1.16}ce103\_fibonacciNumber\_importedcppcs\_test\_1()}{42}{subsubsection.5.3.1.16}%
+\contentsline {subsubsection}{\numberline {5.3.1.17}ce103\_fibonacciNumber\_importedcppcs\_test\_2()}{43}{subsubsection.5.3.1.17}%
+\contentsline {subsubsection}{\numberline {5.3.1.18}ce103\_fibonacciNumber\_importedcppcs\_test\_3()}{43}{subsubsection.5.3.1.18}%
+\contentsline {subsubsection}{\numberline {5.3.1.19}ce103\_hex2bin\_cs\_test1()}{43}{subsubsection.5.3.1.19}%
+\contentsline {subsubsection}{\numberline {5.3.1.20}ce103\_hex2bin\_cs\_test2()}{44}{subsubsection.5.3.1.20}%
+\contentsline {subsubsection}{\numberline {5.3.1.21}ce103\_hex2bin\_cs\_test3()}{44}{subsubsection.5.3.1.21}%
+\contentsline {subsubsection}{\numberline {5.3.1.22}ce103\_hex2bin\_imported\_test1()}{44}{subsubsection.5.3.1.22}%
+\contentsline {subsubsection}{\numberline {5.3.1.23}ce103\_hex2bin\_imported\_test2()}{45}{subsubsection.5.3.1.23}%
+\contentsline {subsubsection}{\numberline {5.3.1.24}ce103\_hex2bin\_imported\_test3()}{45}{subsubsection.5.3.1.24}%
+\contentsline {subsubsection}{\numberline {5.3.1.25}ce103\_hex2bin\_importedcppcs\_test1()}{45}{subsubsection.5.3.1.25}%
+\contentsline {subsubsection}{\numberline {5.3.1.26}ce103\_hex2bin\_importedcppcs\_test2()}{46}{subsubsection.5.3.1.26}%
+\contentsline {subsubsection}{\numberline {5.3.1.27}ce103\_hex2bin\_importedcppcs\_test3()}{46}{subsubsection.5.3.1.27}%
+\contentsline {subsubsection}{\numberline {5.3.1.28}ce103\_strcat\_cs\_imported\_test\_1()}{46}{subsubsection.5.3.1.28}%
+\contentsline {subsubsection}{\numberline {5.3.1.29}ce103\_strcat\_cs\_imported\_test\_2()}{47}{subsubsection.5.3.1.29}%
+\contentsline {subsubsection}{\numberline {5.3.1.30}ce103\_strcat\_cs\_imported\_test\_3()}{47}{subsubsection.5.3.1.30}%
+\contentsline {subsubsection}{\numberline {5.3.1.31}ce103\_strcat\_cs\_test\_1()}{47}{subsubsection.5.3.1.31}%
+\contentsline {subsubsection}{\numberline {5.3.1.32}ce103\_strcat\_cs\_test\_2()}{48}{subsubsection.5.3.1.32}%
+\contentsline {subsubsection}{\numberline {5.3.1.33}ce103\_strcat\_cs\_test\_3()}{48}{subsubsection.5.3.1.33}%
+\contentsline {subsubsection}{\numberline {5.3.1.34}ce103\_strcat\_importedcppcs\_test\_1()}{48}{subsubsection.5.3.1.34}%
+\contentsline {subsubsection}{\numberline {5.3.1.35}ce103\_strcat\_importedcppcs\_test\_2()}{49}{subsubsection.5.3.1.35}%
+\contentsline {subsubsection}{\numberline {5.3.1.36}ce103\_strcat\_importedcppcs\_test\_3()}{49}{subsubsection.5.3.1.36}%
+\contentsline {subsubsection}{\numberline {5.3.1.37}ce103\_strcmp\_cs\_imported\_test\_1()}{49}{subsubsection.5.3.1.37}%
+\contentsline {subsubsection}{\numberline {5.3.1.38}ce103\_strcmp\_cs\_imported\_test\_2()}{50}{subsubsection.5.3.1.38}%
+\contentsline {subsubsection}{\numberline {5.3.1.39}ce103\_strcmp\_cs\_imported\_test\_3()}{50}{subsubsection.5.3.1.39}%
+\contentsline {subsubsection}{\numberline {5.3.1.40}ce103\_strcmp\_cs\_test\_1()}{50}{subsubsection.5.3.1.40}%
+\contentsline {subsubsection}{\numberline {5.3.1.41}ce103\_strcmp\_cs\_test\_2()}{51}{subsubsection.5.3.1.41}%
+\contentsline {subsubsection}{\numberline {5.3.1.42}ce103\_strcmp\_cs\_test\_3()}{51}{subsubsection.5.3.1.42}%
+\contentsline {subsubsection}{\numberline {5.3.1.43}ce103\_strcmp\_importedcppcs\_test\_1()}{51}{subsubsection.5.3.1.43}%
+\contentsline {subsubsection}{\numberline {5.3.1.44}ce103\_strcmp\_importedcppcs\_test\_2()}{52}{subsubsection.5.3.1.44}%
+\contentsline {subsubsection}{\numberline {5.3.1.45}ce103\_strcmp\_importedcppcs\_test\_3()}{52}{subsubsection.5.3.1.45}%
+\contentsline {subsubsection}{\numberline {5.3.1.46}ce103\_strcpy\_cs\_imported\_test\_1()}{52}{subsubsection.5.3.1.46}%
+\contentsline {subsubsection}{\numberline {5.3.1.47}ce103\_strcpy\_cs\_imported\_test\_2()}{53}{subsubsection.5.3.1.47}%
+\contentsline {subsubsection}{\numberline {5.3.1.48}ce103\_strcpy\_cs\_imported\_test\_3()}{53}{subsubsection.5.3.1.48}%
+\contentsline {subsubsection}{\numberline {5.3.1.49}ce103\_strcpy\_cs\_test\_1()}{53}{subsubsection.5.3.1.49}%
+\contentsline {subsubsection}{\numberline {5.3.1.50}ce103\_strcpy\_cs\_test\_2()}{54}{subsubsection.5.3.1.50}%
+\contentsline {subsubsection}{\numberline {5.3.1.51}ce103\_strcpy\_cs\_test\_3()}{54}{subsubsection.5.3.1.51}%
+\contentsline {subsubsection}{\numberline {5.3.1.52}ce103\_strcpy\_importedcppcs\_test\_1()}{54}{subsubsection.5.3.1.52}%
+\contentsline {subsubsection}{\numberline {5.3.1.53}ce103\_strcpy\_importedcppcs\_test\_2()}{55}{subsubsection.5.3.1.53}%
+\contentsline {subsubsection}{\numberline {5.3.1.54}ce103\_strcpy\_importedcppcs\_test\_3()}{55}{subsubsection.5.3.1.54}%
+\contentsline {subsubsection}{\numberline {5.3.1.55}ce103\_strlen\_cs\_imported\_test\_1()}{55}{subsubsection.5.3.1.55}%
+\contentsline {subsubsection}{\numberline {5.3.1.56}ce103\_strlen\_cs\_imported\_test\_2()}{56}{subsubsection.5.3.1.56}%
+\contentsline {subsubsection}{\numberline {5.3.1.57}ce103\_strlen\_cs\_imported\_test\_3()}{56}{subsubsection.5.3.1.57}%
+\contentsline {subsubsection}{\numberline {5.3.1.58}ce103\_strlen\_cs\_test\_1()}{56}{subsubsection.5.3.1.58}%
+\contentsline {subsubsection}{\numberline {5.3.1.59}ce103\_strlen\_cs\_test\_2()}{57}{subsubsection.5.3.1.59}%
+\contentsline {subsubsection}{\numberline {5.3.1.60}ce103\_strlen\_cs\_test\_3()}{57}{subsubsection.5.3.1.60}%
+\contentsline {subsubsection}{\numberline {5.3.1.61}ce103\_strlen\_importedcppcs\_test\_1()}{57}{subsubsection.5.3.1.61}%
+\contentsline {subsubsection}{\numberline {5.3.1.62}ce103\_strlen\_importedcppcs\_test\_2()}{58}{subsubsection.5.3.1.62}%
+\contentsline {subsubsection}{\numberline {5.3.1.63}ce103\_strlen\_importedcppcs\_test\_3()}{58}{subsubsection.5.3.1.63}%
+\contentsline {subsubsection}{\numberline {5.3.1.64}ce103\_strrev\_cs\_imported\_test\_1()}{58}{subsubsection.5.3.1.64}%
+\contentsline {subsubsection}{\numberline {5.3.1.65}ce103\_strrev\_cs\_imported\_test\_2()}{59}{subsubsection.5.3.1.65}%
+\contentsline {subsubsection}{\numberline {5.3.1.66}ce103\_strrev\_cs\_imported\_test\_3()}{59}{subsubsection.5.3.1.66}%
+\contentsline {subsubsection}{\numberline {5.3.1.67}ce103\_strrev\_cs\_test\_1()}{59}{subsubsection.5.3.1.67}%
+\contentsline {subsubsection}{\numberline {5.3.1.68}ce103\_strrev\_cs\_test\_2()}{60}{subsubsection.5.3.1.68}%
+\contentsline {subsubsection}{\numberline {5.3.1.69}ce103\_strrev\_cs\_test\_3()}{60}{subsubsection.5.3.1.69}%
+\contentsline {subsubsection}{\numberline {5.3.1.70}ce103\_strrev\_importedcppcs\_test\_1()}{60}{subsubsection.5.3.1.70}%
+\contentsline {subsubsection}{\numberline {5.3.1.71}ce103\_strrev\_importedcppcs\_test\_2()}{61}{subsubsection.5.3.1.71}%
+\contentsline {subsubsection}{\numberline {5.3.1.72}ce103\_strrev\_importedcppcs\_test\_3()}{61}{subsubsection.5.3.1.72}%
+\contentsline {chapter}{\numberline {6}File Documentation}{63}{chapter.6}%
+\contentsline {section}{\numberline {6.1}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ramazan Serhat UYGUN/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/a/ce103-\/hw4-\/haluk-\/kurtulus/ce103-\/hw4-\/c-\/dll/ce103-\/hw4-\/c-\/dll.c File Reference}{63}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Function Documentation}{64}{subsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.1.1}\_\_declspec()}{64}{subsubsection.6.1.1.1}%
+\contentsline {section}{\numberline {6.2}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ramazan Serhat UYGUN/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/a/ce103-\/hw4-\/haluk-\/kurtulus/ce103-\/hw4-\/c-\/dll/ce103-\/hw4-\/c-\/dll.h File Reference}{64}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Detailed Description}{67}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Macro Definition Documentation}{67}{subsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.2.1}WIN32\_LEAN\_AND\_MEAN}{67}{subsubsection.6.2.2.1}%
+\contentsline {subsection}{\numberline {6.2.3}Function Documentation}{67}{subsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.3.1}\_\_declspec()}{68}{subsubsection.6.2.3.1}%
+\contentsline {subsection}{\numberline {6.2.4}Variable Documentation}{68}{subsection.6.2.4}%
+\contentsline {subsubsection}{\numberline {6.2.4.1}fiBinLen}{68}{subsubsection.6.2.4.1}%
+\contentsline {subsubsection}{\numberline {6.2.4.2}fiHexLen}{68}{subsubsection.6.2.4.2}%
+\contentsline {subsubsection}{\numberline {6.2.4.3}fiRhs}{68}{subsubsection.6.2.4.3}%
+\contentsline {subsubsection}{\numberline {6.2.4.4}fiSource}{68}{subsubsection.6.2.4.4}%
+\contentsline {subsubsection}{\numberline {6.2.4.5}fiSrc}{68}{subsubsection.6.2.4.5}%
+\contentsline {subsubsection}{\numberline {6.2.4.6}foBin}{69}{subsubsection.6.2.4.6}%
+\contentsline {subsubsection}{\numberline {6.2.4.7}foHex}{69}{subsubsection.6.2.4.7}%
+\contentsline {section}{\numberline {6.3}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ramazan Serhat UYGUN/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/a/ce103-\/hw4-\/haluk-\/kurtulus/ce103-\/hw4-\/cpp-\/dll/ce103-\/hw4-\/cpp-\/dll.cpp File Reference}{69}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Function Documentation}{70}{subsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.1.1}ce103\_bin2hex\_cpp()}{70}{subsubsection.6.3.1.1}%
+\contentsline {subsubsection}{\numberline {6.3.1.2}ce103\_fibonacciNumber\_cpp()}{70}{subsubsection.6.3.1.2}%
+\contentsline {subsubsection}{\numberline {6.3.1.3}ce103\_hex2bin\_cpp()}{70}{subsubsection.6.3.1.3}%
+\contentsline {subsubsection}{\numberline {6.3.1.4}ce103\_strcat\_cpp()}{70}{subsubsection.6.3.1.4}%
+\contentsline {subsubsection}{\numberline {6.3.1.5}ce103\_strcmp\_cpp()}{70}{subsubsection.6.3.1.5}%
+\contentsline {subsubsection}{\numberline {6.3.1.6}ce103\_strcpy\_cpp()}{71}{subsubsection.6.3.1.6}%
+\contentsline {subsubsection}{\numberline {6.3.1.7}ce103\_strlen\_cpp()}{71}{subsubsection.6.3.1.7}%
+\contentsline {subsubsection}{\numberline {6.3.1.8}ce103\_strrev\_cpp()}{71}{subsubsection.6.3.1.8}%
+\contentsline {section}{\numberline {6.4}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ramazan Serhat UYGUN/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/a/ce103-\/hw4-\/haluk-\/kurtulus/ce103-\/hw4-\/cpp-\/dll/ce103-\/hw4-\/cpp-\/dll.h File Reference}{71}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Function Documentation}{72}{subsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.1.1}\_\_declspec()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{72}{subsubsection.6.4.1.1}%
+\contentsline {subsubsection}{\numberline {6.4.1.2}\_\_declspec()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{73}{subsubsection.6.4.1.2}%
+\contentsline {subsection}{\numberline {6.4.2}Variable Documentation}{73}{subsection.6.4.2}%
+\contentsline {subsubsection}{\numberline {6.4.2.1}fiBinLen}{73}{subsubsection.6.4.2.1}%
+\contentsline {subsubsection}{\numberline {6.4.2.2}fiHexLen}{73}{subsubsection.6.4.2.2}%
+\contentsline {subsubsection}{\numberline {6.4.2.3}fiRhs}{73}{subsubsection.6.4.2.3}%
+\contentsline {subsubsection}{\numberline {6.4.2.4}fiSource}{73}{subsubsection.6.4.2.4}%
+\contentsline {subsubsection}{\numberline {6.4.2.5}fiSrc}{73}{subsubsection.6.4.2.5}%
+\contentsline {subsubsection}{\numberline {6.4.2.6}foBin}{73}{subsubsection.6.4.2.6}%
+\contentsline {subsubsection}{\numberline {6.4.2.7}foHex}{74}{subsubsection.6.4.2.7}%
+\contentsline {section}{\numberline {6.5}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ramazan Serhat UYGUN/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/a/ce103-\/hw4-\/haluk-\/kurtulus/ce103-\/hw4-\/cs-\/dll/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Class1.cs File Reference}{74}{section.6.5}%
+\contentsline {section}{\numberline {6.6}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ramazan Serhat UYGUN/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/a/ce103-\/hw4-\/haluk-\/kurtulus/ce103-\/hw4-\/cs-\/dll/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Class2.cs File Reference}{74}{section.6.6}%
+\contentsline {section}{\numberline {6.7}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ramazan Serhat UYGUN/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/a/ce103-\/hw4-\/haluk-\/kurtulus/ce103-\/hw4-\/cs-\/dll/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Debug/.NETFramework,Version=v4.7.2.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Attributes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{75}{section.6.7}%
+\contentsline {section}{\numberline {6.8}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ramazan Serhat UYGUN/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/a/ce103-\/hw4-\/haluk-\/kurtulus/ce103-\/hw4-\/test/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Debug/.NETFramework,Version=v4.7.2.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Attributes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{75}{section.6.8}%
+\contentsline {section}{\numberline {6.9}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ramazan Serhat UYGUN/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/a/ce103-\/hw4-\/haluk-\/kurtulus/ce103-\/hw4-\/cs-\/dll/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Properties/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info.cs File Reference}{75}{section.6.9}%
+\contentsline {section}{\numberline {6.10}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ramazan Serhat UYGUN/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/a/ce103-\/hw4-\/haluk-\/kurtulus/ce103-\/hw4-\/test/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Properties/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info.cs File Reference}{75}{section.6.10}%
+\contentsline {section}{\numberline {6.11}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ramazan Serhat UYGUN/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/a/ce103-\/hw4-\/haluk-\/kurtulus/ce103-\/hw4-\/test/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test1.cs File Reference}{75}{section.6.11}%
+\contentsline {chapter}{Index}{77}{section*.132}%
